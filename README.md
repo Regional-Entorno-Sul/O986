@@ -1,2 +1,4 @@
 # O986  
-Esse utilitário 
+Esse utilitário identifica casos de pacientes em gestação notificadas no agravo B58
+
+
