@@ -9,3 +9,5 @@ Casos desse tipo devem ser notificados no agravo O98.6 (Doenças causadas por pr
 1. Colocar na pasta do utilitário, o arquivo de exportação de notificações individuais do SINAN NET (nindinet.dbf);
 2. Rodar o executácel "O986.exe";
 3. Caso sejam identificados registros com essa inconsistência, estes estarão no arquivo "toxo_B58.dbf".
+  
+![x](/O986_prompt.jpg)  
